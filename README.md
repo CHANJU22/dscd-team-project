@@ -1,6 +1,5 @@
 # dscd-team-project
 
-> Description
 [DS-Capstone design] TEAM 4, Assignment JC2
 
 > Member Table
@@ -12,9 +11,6 @@
 | | |
 
 
-
-## Contributing
-`makaveli1200`, `hisplan`
 
 ## Contact
 * Email: <dgreenw368@gmail.com>
